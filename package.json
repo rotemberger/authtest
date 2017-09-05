@@ -1,0 +1,30 @@
+{
+  "name": "authtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rotemberger/authtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rotemberger/authtest/issues"
+  },
+  "homepage": "https://github.com/rotemberger/authtest#readme",
+  "devDependencies": {
+    "github-client": "^0.8.0",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "jquery-deferred": "^0.3.1",
+    "najax": "^1.0.3",
+    "querystring": "^0.2.0",
+    "request": "^2.81.0",
+    "underscore": "^1.8.3",
+    "url": "^0.11.0"
+  }
+}
